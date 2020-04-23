@@ -1,0 +1,3 @@
+In the executable file main.cpp, the implementation of almost all the tasks according to the book of Vasiliev A.N. is presented. "C ++ programming in examples and tasks."
+All tasks are divided into functions and subfunctions. Comments for each function are written in Russian for a better understanding of what a particular function does. You can call up any task and see its solution.
+The last two chapters present the implementation of some classes.
